@@ -1,0 +1,20 @@
+{
+    "name": "codingexperts/magento2-quality-phpmd",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Coding Experts B.V.",
+        "email": "info@codingexperts.tech"
+    }],
+    "description": "PHPMD Coding standards for Magento2 projects",
+    "homepage": "https://www.codingexperts.tech",
+    "keywords": [
+        "php",
+        "phpmd",
+        "phpmd-rulesets",
+        "magento2"
+    ],
+    "require": {
+        "phpmd/phpmd": "~2.0"
+    }
+}
